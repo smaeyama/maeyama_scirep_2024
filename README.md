@@ -1,5 +1,6 @@
 # maeyama_scirep_2024
-Data depicted in figures of S. Maeyama, et al., under review (2024)
+Data depicted in figures of [S. Maeyama, M. Honda, E. Narita, S. Toda, "Multi-Fidelity Information Fusion for Turbulent Transport Modeling in Magnetic Fusion Plasma", Scientific Reports 14, 28242 (2024).](https://doi.org/10.1038/s41598-024-78394-3)
+[![doi](https://img.shields.io/badge/doi-10.1038/s41598--024--78394--3-5077AB.svg)](https://doi.org/10.1038/s41598-024-78394-3)
 
 - fig1/ : Numerical Experiment 1: One-Dimensional Analytic Problem
 - fig2-3/ : Numerical Experiment 2: Information Fusion of Low and High-resolution Simulation Results
